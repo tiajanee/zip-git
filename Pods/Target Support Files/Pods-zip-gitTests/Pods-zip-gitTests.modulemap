@@ -1,0 +1,6 @@
+framework module Pods_zip_gitTests {
+  umbrella header "Pods-zip-gitTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
